@@ -10,4 +10,4 @@ Ce projet est un site web statique développé en **HTML** et **CSS**. Il est h�
 🔹 Ajout d'interactions avec JavaScript  
 🔹 Amélioration du design  
 🔹 Optimisation pour le référencement (SEO)  
-🔹 Design responsive (si applicable)  
+🔹 Design responsive  
